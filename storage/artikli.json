@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "Naziv":"Proizvod 1"
+    },
+    
+    {
+        "id":2,
+        "Naziv":"Proizvod 2"
+    },
+    
+    {
+        "id":3,
+        "Naziv":"Proizvod 3"
+    },
+    {
+        "id":4,
+        "Naziv":"Proizvod 4"
+    },
+    {
+        "id":5,
+        "Naziv":"Proizvod 5"
+    },
+    {
+        "id":6,
+        "Naziv":"Proizvod 6"
+    },
+    {
+        "id":7,
+        "Naziv":"Proizvod 7"
+    }
+]
