@@ -1,0 +1,35 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    /* background-color: #F3ECD8; */
+    background-color:rgb(243, 236, 216);
+}
+.block{
+    background-color:rgb(199, 199, 158);
+    padding: 35px;
+    color: rgb(243, 236, 216);
+    font-size: 20px;
+}
+.title{
+    background-color:rgb(69, 43, 48);
+    color:rgb(243, 236, 216);
+}
+.dugme{
+    background-color: rgb(116, 64, 76);
+    color: rgb(243, 236, 216);
+}
+.title-artikli{
+    color:rgb(116, 64, 76);
+}
+footer{
+    margin-top: 10.5%;
+    padding: 45px;
+    background-color:rgb(69, 43, 48);
+    color:rgb(243, 236, 216);
+}
+.footed-div{
+    text-align: center;
+}
+.footed-div a{
+    color: rgb(243, 236, 216);
+}
